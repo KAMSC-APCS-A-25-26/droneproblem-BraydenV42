@@ -27,7 +27,7 @@ public class DroneAssignment {
         // TODO: Part 2 - Compound Assignment Operators
         // Altitude: Drone climbs 20 meters 
         // Battery: Battery drains 15% 
-        // Photos: Drone takes 3 photos 
+        // Photos: Drone takes 3 photos Oranges
         // Altitude: Drone descends to half its current altitude 
         // use modulo to calculate storage slots used on photos to calculate storage slots used
         // Display "Photos: " + photos
