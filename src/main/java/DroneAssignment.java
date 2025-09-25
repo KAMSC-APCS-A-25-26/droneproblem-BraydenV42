@@ -19,9 +19,10 @@ public class DroneAssignment {
         // Print them to check your work (optional)
         
         int displayAltitude = (int) altitude;
-        System.out.println(displayAltitude);
+        System.out.println("Display Altitude: " + displayAltitude);
         int batteryRounded = (int) battery;
-        System.out.println(batteryRounded);
+        System.out.println("Battery Rounded: " + batteryRounded);
+        System.out.println();
         
         // TODO: Part 2 - Compound Assignment Operators
         // Altitude: Drone climbs 20 meters 
@@ -41,7 +42,7 @@ public class DroneAssignment {
         displayAltitude /= 2;
         System.out.println("After descending to half: " + displayAltitude);
         System.out.println("Photos: " + photos);
-        System.out.println("Storage slots used: " + photos + "out of 4");
+        System.out.println("Storage slots used: " + photos + " out of 4");
         
         
     }
